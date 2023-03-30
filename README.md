@@ -30,7 +30,7 @@ Analyzed the client's transaction dataset and identified customer purchasing beh
 - Observing the 2nd most purchased brand, "Young and Mid-age Singles/Couples" is the only segment with a different preference (Doritos) as compared to others' (Smiths).
 - The most frequent chip size purchased is 175gr followed by the 150gr chip size for all segments.
 
-### Recommendations
+### Recommendations
 
 - Older Families: Focus on the Budget segment. Strength 1: Frequent purchases. We can give promotions that encourage more frequency of purchase. Strength 2: High quantity of chips purchased per visit. We can give promotions that encourage them to buy more quantity of chips per purchase.
 - Young Singles/Couples: Focus on the Mainstream segment. This segment is the only one with Doritos as their 2nd most purchased brand (after Kettle). To specifically target this segment it might be a good idea to collaborate with Doritos merchants to do some branding promotion catered to the "Young Singles/Couples - Mainstream" segment. Strength: Population quantity. We can spend more effort on making sure our promotions reach them, and it reaches them frequently.
