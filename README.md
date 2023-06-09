@@ -2,10 +2,10 @@
 Studied customer behavior, tested store layouts, and created reports.
 
 ## Note
-All these code files were my personal submissions for this program. Except for the data files which were assigned by Quantium.
+All these code files were my personal submissions. Except for the data files which were assigned by Quantium.
 
 ## Introduction
-Quantium is a leading data science and AI firm founded in Australia in 2002. In this project, I am part of Quantium's retail analytics team and have been approached by your client, the Category Manager for Chips, who wants to understand better the types of customers who purchase Chips and their purchasing behavior within the region. The insights from my analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
+Quantium is a leading data science and AI firm founded in Australia in 2002. In this project, I am part of Quantium's retail analytics team and have been approached by the client, who wants to understand better the types of customers who purchase Chips and their purchasing behavior within the region. The insights from my analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
 
 ## Task 1 : Data Preparation and Customer Analytics
 Analyzed the client's transaction dataset and identified customer purchasing behaviors to generate insights.
